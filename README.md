@@ -1,1 +1,1 @@
-# zhongyuan-pebbles-game-gear-academy
+# pebbles-game-gear-academy
